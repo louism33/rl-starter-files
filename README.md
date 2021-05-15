@@ -12,7 +12,7 @@ of
 `
 Make sure to change the underlying gridworld hyperparameters in https://github.com/louism33/gym-minigrid/blob/master/gym_minigrid/envs/scalableoversight.py.
 
-
+You will need to use this in conjunction with https://github.com/louism33/torch-ac and https://github.com/louism33/gym-minigrid
 
 
 # RL Starter Files
