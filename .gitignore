@@ -1,0 +1,10 @@
+*__pycache__
+*egg-info
+.vscode
+.venv/
+/venv/
+/storage/
+/algos/storage/
+/scripts/storage/
+/storageToShow/
+/versions/
